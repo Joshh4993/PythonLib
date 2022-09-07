@@ -4,19 +4,17 @@ import json
 
 ans = True
 
-#brief = 'You have selected to play the Magic 8 Ball. Ask the ball a question to receive your answer.\nTo quit, double tap the Enter key- until then the Magic 8 Ball awaits...'
 startnum_file = open('settings.json')
 json_array = json.load(startnum_file)
 lownum = int(json_array[0])
 highnum = int(json_array[1])
 startnum = random.randint(lownum, highnum)
-#print(brief)
 previous_num = 0
 
 def newround(previous_num):
     previous_num = previous_num
     while ans:
-        print("The previous number was: " + str(previous_num) + "' is the next number- higher(h), lower(l) or the same(s)?")
+        print("The previous number was: '" + str(previous_num) + "' is the next number- higher(h), lower(l) or the same(s)?")
         nextnum = random.randint(1, 1000)
         player_input = input("Type your answer: ")
         if (player_input == " "): sys.exit()
