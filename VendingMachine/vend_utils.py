@@ -1,30 +1,21 @@
 import json
 
 def get_stock_data():
-    try:
-        with open('inventory.json') as vending_file:
-            stock_data = json.load(vending_file)
-            return stock_data
-    except:
-        print("Error in 'get_stock_data'")
+    with open('inventory.json') as vending_file:
+        stock_data = json.load(vending_file)
+        return stock_data
 
 def get_stock_from_selection(selection_id):
-    try:
-        stock_data = get_stock_data()
-        stock = stock_data[f'{selection_id}']
-        return stock
-    except:
-        print("Error in 'get_stock_from_selection'")
+    stock_data = get_stock_data()
+    stock = stock_data[f'{selection_id}']
+    return stock
         
 def get_selection_options():
-    try:
-        stock_data = get_stock_data()
-        selection_keys = []
-        for key in stock_data.keys():
-            selection_keys.append(key)
-        return selection_keys
-    except:
-        print("Error in 'get_stock_data'")
+    stock_data = get_stock_data()
+    selection_keys = []
+    for key in stock_data.keys():
+        selection_keys.append(key)
+    return selection_keys
         
 def rename_item_selection(selection_id, new_name):
     try:
