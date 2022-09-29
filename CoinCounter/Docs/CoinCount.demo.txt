@@ -1,0 +1,23 @@
+----------------------------------------------------
+Accurate as of: DATE | TIME
+----------------------------------------------------
+Statistics:
+    Accuracy: 55.55%
+    Total Bags Checked: 45
+    Total Correct: 25
+    Total Incorrect: 20
+----------------------------------------------------
+Volunteers:
+    Jimmy Saville:
+        Accuracy: 75%
+        Bags Checked: 16
+        Bags Correct: 12
+        Bags Incorrect: 4
+        Last Session: DATE | TIME
+    Pope Francis:
+        Accuracy: 44.83%
+        Bags Checked: 29
+        Bags Correct: 13
+        Bags Incorrect: 16
+        Last Session: DATE | TIME
+----------------------------------------------------

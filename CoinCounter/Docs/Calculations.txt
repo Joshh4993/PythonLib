@@ -1,0 +1,4 @@
+(Correct Amount / Total Amount) * 100 = Accuracy in %
+Total Amount - Correct Amount = Incorrect Amount
+
+FOR ALL DATABASE NUMERICAL VALUES (WEIGHT, ACCURACY), DIVIDE BY 100 THEN FORMAT TO 2DP

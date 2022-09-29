@@ -1,0 +1,18 @@
+{
+    "jimmy_saville": {
+        "name": "Jimmy Saville",
+        "password": "hashedPW",
+        "accuracy": "75.00",
+        "bags_checked": 16,
+        "bags_correct": 12,
+        "last_session": "DATE | TIME"
+    },
+    "pope_francis": {
+        "name": "Pope Francis",
+        "password": "hashedPW",
+        "accuracy": "44.83",
+        "bags_checked": 29,
+        "bags_correct": 13,
+        "last_session": "DATE | TIME"
+    }
+}
