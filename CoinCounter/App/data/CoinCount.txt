@@ -1,0 +1,29 @@
+----------------------------------------------------
+Accurate as of: 30/09/2022 | 21:56:07
+----------------------------------------------------
+Statistics:
+    Accuracy: 100.00
+    Total Bags Checked: 1
+    Total Correct: 1
+    Total Incorrect:  0
+----------------------------------------------------
+Volunteers:
+    James Kilmer:
+        Accuracy: 100.00
+        Bags Checked: 0
+        Correct: 0
+        Incorrect: 0
+        Last Session: 30/09/2022 | 21:49:31
+    Josh Edwards:
+        Accuracy: 100.00
+        Bags Checked: 0
+        Correct: 0
+        Incorrect: 0
+        Last Session: HAS NOT LOGGED IN
+    Mary Clark:
+        Accuracy: 100.00
+        Bags Checked: 1
+        Correct: 1
+        Incorrect: 0
+        Last Session: 30/09/2022 | 21:56:07
+----------------------------------------------------

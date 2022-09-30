@@ -1,11 +1,11 @@
 {
-    "admin": {
+    "jamesk29": {
         "accuracy": "100.00",
         "bags_checked": 0,
         "bags_correct": 0,
-        "last_session": "HAS NOT LOGGED IN",
-        "name": "NameAdmin",
-        "password": "b'$2b$12$/k6NWrRZupE1ZWo0OgdMxOoRfd7iMpENK.Kq/D5rAoh37sozFRUQ.'"
+        "last_session": "30/09/2022 | 21:49:31",
+        "name": "James Kilmer",
+        "password": "b'$2b$12$lS621TyzOG.42OU6fUyTLOOl2cgCjfuhFhI9gGNZq2M4kDPvB1qle'"
     },
     "joshh4993": {
         "accuracy": "100.00",
@@ -13,14 +13,14 @@
         "bags_correct": 0,
         "last_session": "HAS NOT LOGGED IN",
         "name": "Josh Edwards",
-        "password": "b'$2b$12$tpg0HZ8RH6LcoXbjs/vj0ekwAFr3.JxYeMV4pkqU/Jdh/GTR.01cS'"
+        "password": "b'$2b$12$F7.A8NUJYo88RF54X6nyhuvBfomewxSjgu8rRwRbH0xfkGlTQxBOW'"
     },
-    "username": {
-        "accuracy": "50.00",
-        "bags_checked": 10,
-        "bags_correct": 5,
-        "last_session": "HAS NOT LOGGED IN",
-        "name": "name",
-        "password": "b'$2b$12$aSRBPsFdghmecc0cJVyule8CFtAQ.uSJNMGquJ264cVpHcez5I6pO'"
+    "maryk09": {
+        "accuracy": "100.00",
+        "bags_checked": 1,
+        "bags_correct": 1,
+        "last_session": "30/09/2022 | 21:56:07",
+        "name": "Mary Clark",
+        "password": "b'$2b$12$lS621TyzOG.42OU6fUyTLOOl2cgCjfuhFhI9gGNZq2M4kDPvB1qle'"
     }
 }

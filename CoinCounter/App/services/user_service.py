@@ -25,6 +25,15 @@ def register_volunteer(username, name, password):
         # If username is NOT taken then vvv
         #print("Okay to create acc") - Debug Statement
 
+        #Check if 3 users are registered - if so, deny acc. creation
+        db_users_count = 0
+        for key, value in volunteer_data.items():
+            db_users_count = db_users_count + 1
+        if db_users_count >= 3:
+            return_value = "ACCS"
+            username = ""
+            return return_value, username
+
         #Encode and Hash Password
         password = password.encode('utf-8')
         hashedPassword = bcrypt.hashpw(password, salt)
