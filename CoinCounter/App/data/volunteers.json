@@ -1,8 +1,24 @@
 {
+    "admin": {
+        "accuracy": "100.00",
+        "bags_checked": 0,
+        "bags_correct": 0,
+        "last_session": "HAS NOT LOGGED IN",
+        "name": "NameAdmin",
+        "password": "b'$2b$12$/k6NWrRZupE1ZWo0OgdMxOoRfd7iMpENK.Kq/D5rAoh37sozFRUQ.'"
+    },
+    "joshh4993": {
+        "accuracy": "100.00",
+        "bags_checked": 0,
+        "bags_correct": 0,
+        "last_session": "HAS NOT LOGGED IN",
+        "name": "Josh Edwards",
+        "password": "b'$2b$12$tpg0HZ8RH6LcoXbjs/vj0ekwAFr3.JxYeMV4pkqU/Jdh/GTR.01cS'"
+    },
     "username": {
-        "accuracy": "57.14",
-        "bags_checked": 7,
-        "bags_correct": 4,
+        "accuracy": "50.00",
+        "bags_checked": 10,
+        "bags_correct": 5,
         "last_session": "HAS NOT LOGGED IN",
         "name": "name",
         "password": "b'$2b$12$aSRBPsFdghmecc0cJVyule8CFtAQ.uSJNMGquJ264cVpHcez5I6pO'"

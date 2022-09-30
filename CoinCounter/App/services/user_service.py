@@ -1,5 +1,5 @@
 import bcrypt
-import database_service as db
+import services.database_service as db
 
 salt = bcrypt.gensalt()
 

@@ -1,5 +1,5 @@
-import database_service as db
-import user_service as users
+import services.database_service as db
+import services.user_service as users
 
 
 def verify_bag(username, coin_type, bag_weight):
@@ -110,5 +110,3 @@ def calculate_accuracy(checked, correct):
     format_accuracy = "{:.2f}".format(accuracy)
     return format_accuracy
 
-
-verify_bag("username", "5", 23265)

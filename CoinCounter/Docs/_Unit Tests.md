@@ -25,7 +25,7 @@ This document outlines all tests ran on the system as it is developed.
     ```json
     {
         "username": {
-        "accuracy": 10000,
+        "accuracy": "100.00",
         "bags_checked": 0,
         "bags_correct": 0,
         "last_session": "HAS NOT LOGGED IN",
@@ -43,7 +43,7 @@ This document outlines all tests ran on the system as it is developed.
     ```json
     {
         "username": {
-        "accuracy": 10000,
+        "accuracy": "100.00",
         "bags_checked": 0,
         "bags_correct": 0,
         "last_session": "HAS NOT LOGGED IN",

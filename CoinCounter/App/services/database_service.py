@@ -23,3 +23,8 @@ def save_database(db_name, db_key, db_file):
     except:
         print("Error Saving DB")
         return False
+
+#with open(f'./data/{db_name}.json', 'r+') as f:
+ #       data = json.load(f)
+ #       data[db_key] = db_file
+   #     json.dump(data, f)
